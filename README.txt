@@ -33,7 +33,7 @@ How to play the game:
 
 
 How to run the python script to train the neural network:
-
+    python nethack2.py number_of_episodes
 
 
 
