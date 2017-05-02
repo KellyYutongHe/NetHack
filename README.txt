@@ -1,6 +1,9 @@
 This git repository holds all modified or new files related to a Reinforcement Learning algorithm for the game NetHack.
 
 New Files:
+nethack2.py
+agent423.py: deep recurrent reinforcement learning agent
+almost_random_agent.py: single-layer feed-forward neural network with q-learning implementation
 
 
 
